@@ -1,10 +1,3 @@
-Perfect 👌 you’ve completed the **Banking System project** — now let’s make it shine on GitHub **and** prepare you to answer interview questions about it (so you sound like you truly understand every design choice).
-
----
-
-# 📄 README.md (upload to GitHub)
-
-Here’s a **professional README.md** you can drop into your project root:
 
 ```markdown
 # 🏦 Java Banking System
