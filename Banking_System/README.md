@@ -1,8 +1,3 @@
----
-
-# 📄 README.md (upload to GitHub)
-
-Here’s a **professional README.md** you can drop into your project root:
 
 ```markdown
 # 🏦 Java Banking System
